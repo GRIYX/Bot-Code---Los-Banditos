@@ -288,4 +288,4 @@ async def mp(ctx, user: discord.User, *, message: str):
 
 # ----------------------------------------------------------------
 keep_alive()
-# bot.run(TOKEN)
+bot.run(TOKEN)
